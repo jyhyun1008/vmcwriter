@@ -2,6 +2,6 @@
 node_modules/
 jspm_packages/
 
-vmcwriter/result.txt
+vmcwriter/result.bvh
 
 .DS_Store
