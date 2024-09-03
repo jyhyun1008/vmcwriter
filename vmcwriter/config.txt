@@ -1,0 +1,7 @@
+--- You want to get VMC data from: ---
+DESTINATION IP - Internal IP of THIS DEVICE! (127.0.0.1)
+127.0.0.1
+
+PORT (39539)
+39539
+--- Now turn on your device, click the .exe file and enjoy! ---

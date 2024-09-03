@@ -1,2 +1,3 @@
 # vmcwriter
  
+> node app.js
